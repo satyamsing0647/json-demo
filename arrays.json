@@ -1,0 +1,11 @@
+{
+    "employee":
+    {
+        "empid":101,
+        "name":"Satyam",
+        "desig":"Developer",
+        "technologies":["Java","My SQL","Python"],
+        "performancefiveyears":[8,9,9.5,8.5,9],
+        "comments":"Using Key - Arrays in JSON"
+    }
+}

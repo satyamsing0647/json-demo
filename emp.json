@@ -1,0 +1,96 @@
+{
+    "employee": [
+        {
+            "empid": 101,
+            "name": "Satyam",
+            "desig": "Develoepr",
+            "married": false,
+            "salary": 5000.50
+        },
+        {
+            "empid": 102,
+            "name": "Shiva",
+            "desig": "Develoepr",
+            "married": true,
+            "salary": 10000.50
+        },
+        {
+            "empid": 103,
+            "name": "Siddarth",
+            "desig": "Full Satck Developer",
+            "married": true,
+            "salary": 17000.50
+        },
+        {
+            "empid": 104,
+            "name": "Sreeja",
+            "desig": "Develoepr",
+            "married": true,
+            "salary": 9000.50
+        },
+        {
+            "empid": 105,
+            "name": "Michael Davis",
+            "desig": "DevOps Engineer",
+            "married": true,
+            "salary": 80000
+          },
+          {
+            "empid": 106,
+            "name": "Sarah Wilson",
+            "desig": "Business Analyst",
+            "married": false,
+            "salary": 68000
+          },
+          {
+            "empid": 107,
+            "name": "David Martinez",
+            "desig": "Database Administrator",
+            "married": true,
+            "salary": 72000
+          },
+          {
+            "empid": 108,
+            "name": "Laura Thomas",
+            "desig": "Network Engineer",
+            "married": false,
+            "salary": 75000
+          },
+          {
+            "empid": 109,
+            "name": "Chris Taylor",
+            "desig": "Full Stack Developer",
+            "married": true,
+            "salary": 85000
+          },
+          {
+            "empid": 110,
+            "name": "Sophia Anderson",
+            "desig": "Cloud Architect",
+            "married": false,
+            "salary": 98000
+          },
+          {
+            "empid": 111,
+            "name": "John Doe",
+            "desig": "Software Engineer",
+            "married": true,
+            "salary": 75000
+          },
+          {
+            "empid": 112,
+            "name": "Jane Smith",
+            "desig": "Project Manager",
+            "married": false,
+            "salary": 95000
+          },
+          {
+            "empid": 113,
+            "name": "Robert Brown",
+            "desig": "QA Analyst",
+            "married": true,
+            "salary": 60000
+          }
+        ]
+      }
+    
